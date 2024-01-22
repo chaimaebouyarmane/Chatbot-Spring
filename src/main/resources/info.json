@@ -1,0 +1,13 @@
+{
+  "name": "Smiley",
+  "owner": "Dr. Paul Dubois",
+  "opening_hour": "08:00",
+  "closing_hour": "18:00",
+  "specialites": [
+    "Cardiologie",
+    "Orthopédie",
+    "Pédiatrie",
+    "Gynécologie"
+  ],
+  "description": "Le Centre Hospitalier Universitaire est un établissement de santé moderne et bien équipé. Il a ouvert ses portes le 1er janvier 2000, sous la direction du Dr. Paul Dubois. L'hôpital propose diverses spécialités médicales, telles que la cardiologie, l'orthopédie, la pédiatrie et la gynécologie. Malheureusement, l'hôpital a fermé ses portes le 31 décembre 2022."
+}
