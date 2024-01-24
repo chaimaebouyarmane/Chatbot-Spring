@@ -13,7 +13,9 @@ This project involves developing a chatbot for a medical office. The chatbot wil
 - **OpenAI API:** Provides access to OpenAI's large language models (LLMs), including GPT-3, for generating chatbot responses.
 
 # Architecture :
-
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/Chatbot-Spring/Img1.PNG" alt="screenshot" />
+</div>
 
 
 
