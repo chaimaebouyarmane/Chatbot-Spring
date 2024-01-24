@@ -14,10 +14,12 @@ This project involves developing a chatbot for a medical office. The chatbot wil
 
 # Architecture :
 <div align="center"> 
-  <img src="https://github.com/chaimaebouyarmane/Chatbot-Spring/Img1.PNG" alt="screenshot" />
+  <img src="https://github.com/chaimaebouyarmane/Chatbot-Spring/blob/main/Img1.png" alt="screenshot" />
 </div>
 
-
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/Chatbot-Spring/blob/main/Img2.png" alt="screenshot" />
+</div>
 
 
 ## Contact :busts_in_silhouette:
