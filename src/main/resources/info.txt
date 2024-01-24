@@ -1,0 +1,20 @@
+==NAME
+
+·Smiley
+
+==OWNER
+
+·Paul Dubois
+
+==OPENING_HOUR
+
+·08:00
+
+==CLOSING_HOUR
+
+·18:00
+
+==DESCRIPTION
+
+·Le Centre Hospitalier Universitaire est un établissement de santé moderne et bien équipé. Il a ouvert ses portes le 1er janvier 2000, sous la direction du Dr. Paul Dubois.
+
